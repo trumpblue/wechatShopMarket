@@ -1,0 +1,28 @@
+{
+    "condition": {
+        "plugin": {
+            "list": []
+        },
+        "game": {
+            "list": []
+        },
+        "gamePlugin": {
+            "list": []
+        },
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "购物车",
+                    "pathName": "pages/cart/cart",
+                    "query": "",
+                    "scene": null,
+                    "launchMode": "default",
+                    "partialCompile": {
+                        "enabled": false,
+                        "pages": []
+                    }
+                }
+            ]
+        }
+    }
+}
